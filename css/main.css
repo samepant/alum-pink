@@ -64,3 +64,7 @@ h1 {
   color: #930058;
   text-decoration: none;
 }
+
+_::-webkit-full-page-media, _:future, :root .info {
+  filter: none;
+}
